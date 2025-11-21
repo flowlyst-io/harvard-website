@@ -1,0 +1,7 @@
+{
+  "projectKey": "NOKEY",
+  "mainBranch": "main",
+  "gitWorkflowType": "trunk-based",
+  "jiraIntegrationType": "cli",
+  "applicationDocs": []
+}
